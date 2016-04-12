@@ -1,41 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	
-  <!-- ======== Unlandable biomes ==========-->
   
 	<Ocean.label>Ocean</Ocean.label>
-	<Ocean.description>Otwarty ocean. Bardzo dobry dla ryb, niekocznie dla ciebie.</Ocean.description>	
+	<Ocean.description>Otwarty ocean. Choć tworzy idealne warunki życia dla ryb, twoich raczej nie spełni.</Ocean.description>	
 	
-	
-  <!-- ======== Buildable biomes ==========-->	
+	<!-- ======== Gorące jak diabli ==========-->	
     
-	<IceSheet.label>Lądolód</IceSheet.label>
-	<IceSheet.description>Obszar pokryty skorupą lodową, która może mieć nawet kilometry grubości. Nie ma dostępu do gleby, więc nic tu nie rośnie. Jedyne zwierzęta jakie tu widziano migrują do innych miejsc, albo są kompletnie zagubione.</IceSheet.description>	
+    	<AridShrubland.label>Sawanna</AridShrubland.label>
+	<AridShrubland.description>Region suchy, jednak nie na tyle, aby stać się pustynią. Otwarte, porośnięte złocistymi kępami równiny gdzieniegdzie ustępują zieleńszym krzakom i zagajnikom drzew. Rośliny, które tu rosną, z pewnością muszą być wytrzymałe. Między nimi skupiają się średnie gromady zwierząt.</AridShrubland.description>
+
+	<Desert.label>Step</Desert.label>
+	<Desert.description>Bardzo suchy i gorący obszar - surowość jego natury przejawia się w niewielkiej ilości istniejącego tu życia.</Desert.description>
 	
-	<AridShrubland.label>Sawanna</AridShrubland.label>
-	<AridShrubland.description>Region suchy, ale nie na tyle suchy, aby stać się pustynią. Otwarte równiny z trawą i zaroślami ustępują gdzieniegdzie zagajnikom drzew. Rośliny, które tu rosną muszą być wytrzymałe i jest tu średnia gęstość zwięrząt.</AridShrubland.description>
-	
-	
+	<ExtremeDesert.label>Pustynia</ExtremeDesert.label>
+    	<ExtremeDesert.description>Ekstremalnie upalny i pokryty suszą rejon pozbawiony praktycznie całego życia. Niesamowity gorąc i ograniczona wegetacja roślin sprawia, że przetrwanie tutaj staje się wyzwaniem nawet dla najlepiej przystosowanych do tych warunków zwierząt.</ExtremeDesert.description>
+    
+	<!-- ======== Umiarkowane ==========-->
+
 	<TemperateForest.label>Lasy umiarkowane</TemperateForest.label>
-	<TemperateForest.description>Przyjazna kraina zdominowana przez lasy liściaste, urozmaicona żyznymi polanami. Dużo różnych gatunków zwierząt występuje w lesie i na łąkach.</TemperateForest.description>
-	
-	
-	<Desert.label>Pustynia</Desert.label>
-	<Desert.description>Bardzo suchy i gorący obszar, który jest w stanie utrzymać niewiele organizmów przy życiu.</Desert.description>
-	
+	<TemperateForest.description>Przyjazna kraina zdominowana przez lasy liściaste, urozmaicona żyznymi polanami, wokół których toczy się życie wielu różnych gatunków.</TemperateForest.description>
 	
 	<TropicalRainforest.label>Tropikalny las deszczowy</TropicalRainforest.label>
-	<TropicalRainforest.description>Gęsta i wilgotna Dżungla. Wybujała roślinność i agresywne zwierzęta sprawiają, że rozbudowa i przetrwanie nie są tu łatwe.</TropicalRainforest.description>
+	<TropicalRainforest.description>Gęsta i wilgotna dżungla. Bujna roślinność, egzotyczne choroby i agresywne zwierzęta utrudniają rozbudowę i przetrwanie.</TropicalRainforest.description>
 	
+	<!-- ======== Zimne jak diabli ==========-->
 	
 	<BorealForest.label>Tajga</BorealForest.label>
-	<BorealForest.description>Północne lasy drzew iglastych. Pomimo srogich zim, lasy iglaste zapewniają różnorodną populację małych i dużych zwierząt.</BorealForest.description>
-
+	<BorealForest.description>Północne lasy iglaste. Pomimo srogich zim, zapewnia różnorodną populację małych i dużych zwierząt.</BorealForest.description>
  
 	<Tundra.label>Tundra</Tundra.label>
-	<Tundra.description>Te głównie zamarźnięte równiny są prawie bez drzew i z małą ilością roślin. Występuje tu niewiele małych zwięrząt rozrzuconych pomiędzy stada migrujących zwierząt i ich drapieżniki.</Tundra.description>
-		
+	<Tundra.description>Te zamarznięte, ubogie w roślinność tereny, ledwo są w stanie wyżywić tutejsze niewielkie ilości małych zwierząt - tutejszym, będącym tu przelotem lub walczącym o każdy kawałek mięsa.</Tundra.description>
 	
+	<IceSheet.label>Lądolód</IceSheet.label>
+	<IceSheet.description>Obszar pokryty skorupą lodową, która może mieć nawet kilometry grubości. Nie ma dostępu do gleby, więc nic tu nie rośnie. Niewielka ilość zwierzyny migruje do innych miejsc lub włóczy się, nie mogąc znaleźć drogi do łaskawszych obszarów.</IceSheet.description>	
+
 	
 	
 </LanguageData>
